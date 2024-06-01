@@ -22,7 +22,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import dynamicdnsapi "github.com/dynamicdns-pro/GIT_REPO_ID"
+import dynamicdnsapi "github.com/dynamicdns-pro/go"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:

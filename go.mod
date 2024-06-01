@@ -1,4 +1,4 @@
-module github.com/dynamicdns-pro/GIT_REPO_ID
+module github.com/dynamicdns-pro/go
 
 go 1.18
 

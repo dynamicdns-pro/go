@@ -24,7 +24,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/dynamicdns-pro/GIT_REPO_ID"
+	openapiclient "github.com/dynamicdns-pro/go"
 )
 
 func main() {
@@ -94,7 +94,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/dynamicdns-pro/GIT_REPO_ID"
+	openapiclient "github.com/dynamicdns-pro/go"
 )
 
 func main() {
